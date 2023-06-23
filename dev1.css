@@ -2,3 +2,8 @@ body{
     background-color: white;
     padding: 2px;
 }
+
+h1{
+    font-size: 14px;
+    font-weight: bold;
+}
