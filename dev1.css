@@ -4,6 +4,17 @@ body{
 }
 
 h1{
+<<<<<<< HEAD
+=======
+    align-items: center;
+}
+body{
+    background-color: white;
+    padding: 2px;
+}
+
+h1{
+>>>>>>> 5023a20a2c921169ff2c4e94af1f2805f98add07
     font-size: 14px;
     font-weight: bold;
 }
